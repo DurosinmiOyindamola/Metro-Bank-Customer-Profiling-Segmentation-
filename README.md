@@ -1,4 +1,4 @@
-# Metro-Bank-Customer-Profiling-Segmentation
+# Metro-Bank-Customer-Profiling- And Segmentation
 ### Project Overview
 As part of a data analytics community challenge, I analyzed Metro Bank’s customer profile and segmentation using Excel. The goal was to understand customer demographics, income distribution, loyalty, and segmentation to uncover actionable business insights.
 ### Problem Statement
@@ -21,4 +21,4 @@ The goal of this analysis is to understand Metro Bank’s customer base by profi
 - PivotTables & Pivot Charts: Summarized and visualized data
 - Basic Formulas: AVERAGE, COUNT, and more for quick insights
 ### Conclusion
-This challenge was an exciting way to apply Excel for real-world data analytics. It helped uncover key business insights, understand revenue sources, identify loyalty trends, and explore how segmentation can drive better strategies.
+Working Metro Bank Challenge was a great opportunity to apply Excel skills to a real business scenario. Through this analysis, I learned how to clean and structure data, create meaningful segments, and visualize insights in a way that tells a clear story. I also reflected on how customer profiling can directly inform marketing strategies and retention efforts. Overall, this project helped me understand the practical value of data analysis and strengthened my confidence in using Excel for business insights.
