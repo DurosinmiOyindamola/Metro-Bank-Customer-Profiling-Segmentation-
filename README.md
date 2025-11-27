@@ -5,8 +5,8 @@
 - [Process](#process)
 - [Tools Used](#toolsused)
 - [Key Insights](#keyinsights)
-- [Recommendations](recommendations)
-- [Concludion](conclusion)
+- [Recommendations](#recommendations)
+- [Concludion](#conclusion)
 ### Project Overview
 As part of a data analytics community challenge, I analyzed Metro Bank’s customer profile and segmentation using Excel. The goal was to understand customer demographics, income distribution, loyalty, and segmentation to uncover actionable business insights.
 ### Objectives
