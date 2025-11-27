@@ -1,4 +1,4 @@
-# Metro-Bank-Customer-Profiling- And Segmentation
+# Metro Bank Challenge – Week 1: Customer Profiling & Segmentation
 ## Table Of Content
 - [Project Overview](#projectoverview)
 - [Objectives](#objective)
@@ -45,4 +45,4 @@ Assembled the key charts and metrics into a one-page dashboard for a clear, conc
 ### Tools Used
 Microsoft Excel; For data cleaning, calculations, PivotTables, Pivot Charts, and dashboard creation.
 ### Conclusion
-Working on Metro Bank Challenge was a great opportunity to apply Excel skills to a real business scenario. Through this analysis, I learned how to clean and structure data, create meaningful segments, and visualize insights in a way that tells a clear story. I also reflected on how customer profiling can directly inform marketing strategies and retention efforts. Overall, this project helped me understand the practical value of data analysis and strengthened my confidence in using Excel for business insights.
+Working on week 1 of the Metro Bank Challenge was a great opportunity to apply Excel skills to a real business scenario. Through this analysis, I learned how to clean and structure data, create meaningful segments, and visualize insights in a way that tells a clear story. I also reflected on how customer profiling can directly inform marketing strategies and retention efforts. Overall, this project helped me understand the practical value of data analysis and strengthened my confidence in using Excel for business insights.
